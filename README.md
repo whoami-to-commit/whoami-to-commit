@@ -1,0 +1,3 @@
+- Kasper Piskorski
+- Automatyka i robotyka at Poznan University of Technology
+- Reach me at kasper.piskorski@gmail.com
